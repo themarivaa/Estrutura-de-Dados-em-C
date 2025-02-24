@@ -1,4 +1,4 @@
-PROGRAMAS FEITOS NAS AULAS DE ESTRUTURA DE DADOS COM PROF. AUTO 
+Demonstrações de conceitos de estrutura de dados em C.
 
 
                   .----.
@@ -10,4 +10,4 @@ PROGRAMAS FEITOS NAS AULAS DE ESTRUTURA DE DADOS COM PROF. AUTO
       `"")---(""` |___.|
      /:::::::::::\" _  "
     /:::=======:::\`\`\
-jgs `"""""""""""""`  '-'
+    `"""""""""""""`  
